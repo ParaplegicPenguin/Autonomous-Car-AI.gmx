@@ -1,0 +1,1 @@
+speed -= Thrust/4;
